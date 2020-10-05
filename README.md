@@ -11,6 +11,6 @@ This repository is licensed under the GNU General Purpose License. A copy of the
  2. Click on the green "Code" button and click on "Download ZIP".
  3. Unzip the folder.
  4. Open "randomizer.py".
- 5. In the line that says "test = #'AMC 8', 'AMC 10', 'AMC 12', 'AIME'", remove the "#'AMC 8', 'AMC 10', 'AMC 12', 'AIME'" and enter in the math contest you would like to prepare for. For example, if you would like to prepare for AMC 12, the line should look like "test = 'AMC 12'" (without the outer double quotes).
+ 5. In the line that says ```test = #'AMC 8', 'AMC 10', 'AMC 12', 'AIME'```, remove the ```#'AMC 8', 'AMC 10', 'AMC 12', 'AIME'``` and enter in the math contest you would like to prepare for. For example, if you would like to prepare for AMC 12, the line should look like ```test = 'AMC 12'```.
  6. Run the code. You will need some version of Python 3 installed.
  7. Enjoy!
