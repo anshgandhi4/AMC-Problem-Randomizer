@@ -26,7 +26,7 @@ import urllib.request
 import webbrowser
 import os
 
-filepath = os.path.abspath(os.getcwd()) + 'randomProblem.html'
+filepath = os.path.abspath(os.getcwd()) + '/randomProblem.html'
 
 def random_seed():
     """random_seed -> int
